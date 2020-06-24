@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-24T19:55:54.206Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="cMGHrwAv5MmhMNI5xjZ5" version="13.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-24T19:59:44.436Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="fFd0cgxn9P0R-pjfGqe1" version="13.3.1" type="github" pages="2">
   <diagram name="Reorganize" id="lXYpfdEirGCcQiBe7N9x">
     <mxGraphModel dx="2936" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -618,7 +618,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bj_QabddE2Avfq2x4YhQ-175" value="Intercranial hemorrhage? New Neurologic deficit?&lt;br&gt;SAH is identified?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="Bj_QabddE2Avfq2x4YhQ-1">
-          <mxGeometry x="-150" y="804" width="140" height="95" as="geometry" />
+          <mxGeometry x="-150" y="801.5" width="140" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Bj_QabddE2Avfq2x4YhQ-176" value="TODO: Cerebrovascular Disease" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="Bj_QabddE2Avfq2x4YhQ-1">
           <mxGeometry x="-145" y="690" width="130" height="85" as="geometry" />
@@ -627,7 +627,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bj_QabddE2Avfq2x4YhQ-178" value="CT Head without Contrast" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Bj_QabddE2Avfq2x4YhQ-1">
-          <mxGeometry x="-320" y="821.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-320" y="819" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bj_QabddE2Avfq2x4YhQ-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Bj_QabddE2Avfq2x4YhQ-1" source="Bj_QabddE2Avfq2x4YhQ-180" target="Bj_QabddE2Avfq2x4YhQ-181">
           <mxGeometry relative="1" as="geometry" />
@@ -638,10 +638,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bj_QabddE2Avfq2x4YhQ-180" value="2 or more first-degree family members with aneurysmal SAHs" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="Bj_QabddE2Avfq2x4YhQ-1">
-          <mxGeometry x="-480" y="811.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="-480" y="809" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bj_QabddE2Avfq2x4YhQ-181" value="CTA with Contrast&lt;br&gt;&lt;br&gt;*Some clinics may disagree with practice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Bj_QabddE2Avfq2x4YhQ-1">
-          <mxGeometry x="-660" y="821.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-660" y="819" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bj_QabddE2Avfq2x4YhQ-182" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Bj_QabddE2Avfq2x4YhQ-1" source="Bj_QabddE2Avfq2x4YhQ-186" target="Bj_QabddE2Avfq2x4YhQ-188">
           <mxGeometry relative="1" as="geometry">
